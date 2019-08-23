@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-hx711-weight-sensor-amplifier-module-dual-channel-hx711-for-load-cell",
+  "title": "hx711-weight-sensor-amplifier-module-dual-channel-hx711-for-load-cell",
+  "keywords": "hx711-weight-sensor-amplifier-module-dual-channel-hx711-for-load-cell, esp32, esp8266, arduino",
+  "description": "hx711-weight-sensor-amplifier-module-dual-channel-hx711-for-load-cell plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-hx711-weight-sensor-amplifier-module-dual-channel-hx711-for-load-cell/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-hx711-weight-sensor-amplifier-module-dual-channel-hx711-for-load-cell/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
